@@ -2,6 +2,8 @@
 
 Helps you install @types modules for your dependencies!
 
+> [Watch me build this on YouTube!](https://www.youtube.com/watch?v=PGAu06_E_BU)
+
 ## Features
 
 ### Problems (aka squiggles aka diagnstics)
