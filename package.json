@@ -3,7 +3,7 @@
 	"displayName": "Types Installer Helper",
 	"description": "Helps you install @types modules",
 	"publisher": "TylerLeonhardt",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": {
 		"url": "https://github.com/TylerLeonhardt/vscode-types-installer-helper",
 		"type": "git"
